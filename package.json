@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/lex-chat/lex-chat#readme",
   "dependencies": {
-    "chalk": "^2.0.1",
+    "chalk": "^2.4.2",
     "debug": "^2.6.8",
     "eslint": "^4.9.0",
     "inquirer": "^3.3.0"
